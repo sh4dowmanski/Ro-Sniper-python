@@ -20,7 +20,8 @@ MAXTOPAY : Max to pay
 
 ## How to use
 
-1. Add your cookie to .env file
-2. Put your http proxy into proxy.txt file
-3. Add limited id you want to snipe to Limited_IDS.txt file
-4. Enjoy !
+1. Create caches folder on sniper directory
+2. Add your cookie to .env file
+3. Put your http proxy into proxy.txt file
+4. Add limited id you want to snipe to Limited_IDS.txt file
+5. Enjoy !
