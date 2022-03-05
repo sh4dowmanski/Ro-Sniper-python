@@ -7,7 +7,7 @@ As it doesn't load catalog website it is faster than any other sniper programs.
 
 ## Requirements
 
-Python >= 3.7, python-dotenv
+Python >= 3.7, python-dotenv, requests
 
 ## .env Settings
 
