@@ -25,3 +25,17 @@ MAXTOPAY : Max to pay
 3. Put your http proxy into proxy.txt file
 4. Add limited id you want to snipe to Limited_IDS.txt file
 5. Enjoy !
+
+# Troubleshoot
+
+### 'requests' module error
+```
+Traceback (most recent call last):
+File "main.py", line 2, in ‹module>
+import requests
+ModuleNotFoundError: No module named 'requests'
+```
+Open CMD and type
+```
+pip install requests
+```
