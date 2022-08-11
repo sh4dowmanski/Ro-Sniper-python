@@ -26,7 +26,23 @@ MAXTOPAY : Max to pay
 4. Add limited id you want to snipe to Limited_IDS.txt file
 5. Enjoy !
 
+## Proxy Information
+
+You need Proxy IP and Port to use it.
+This means you need to search for a "Proxy Server" urself. The recent I know https://geonode.com/free-proxy-list/
+
+You can also rent your own private Proxy Server so its faster and safer to use.
+Its still under your responsibility.
+
+Remember it need to be http://
+
 # Troubleshoot
+
+### "Last 5min Checked 0, Last 5min Error0, Total Checks 0" fail
+
+Check caches for fails---
+Open the bat Pick option 1 and search the scan for fails.
+Clear out the failing Limiteds in Limited_IDS.txt and delete the Cache attached to it.
 
 ### 'requests' module error
 ```
